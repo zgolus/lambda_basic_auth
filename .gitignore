@@ -17,6 +17,9 @@ var/
 *.egg
 .python-env
 .vscode
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Serverless directories
 .serverless
